@@ -5,7 +5,11 @@
  */
 
 var app = require('../app');
+<<<<<<< HEAD
 var debug = require('debug')('nodeelasticnew:server');
+=======
+var debug = require('debug')('elasticsearch:server');
+>>>>>>> 8c0f9ab34ade5257f3e4baa0fca8150cdaa3c669
 var http = require('http');
 
 /**

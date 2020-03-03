@@ -1,6 +1,9 @@
 const fs = require('fs')
 const readline = require('readline')
+<<<<<<< HEAD
 
+=======
+>>>>>>> 8c0f9ab34ade5257f3e4baa0fca8150cdaa3c669
 function isJsonString(str) {
     try {
         JSON.parse(str);
@@ -9,7 +12,10 @@ function isJsonString(str) {
     }
     return true;
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> 8c0f9ab34ade5257f3e4baa0fca8150cdaa3c669
 let inputFile = fs.createReadStream('export.json')
 let lineReader = readline.createInterface({
     input: inputFile
@@ -18,6 +24,7 @@ let lineReader = readline.createInterface({
 let writeStream = fs.createWriteStream("formatted.json", {flags: 'a'})
 
 lineReader.on('line', function (line) {
+<<<<<<< HEAD
     if (isJsonString(line)) {
         let jsonData = JSON.parse(line);
         jsonData.forEach(function (item) {
@@ -30,6 +37,14 @@ lineReader.on('line', function (line) {
             let obj = {
                 _index: 'patan',
                 _type: 'indicator_info',
+=======
+    if(isJsonString(line)) {
+        let jsonData = JSON.parse(line);
+        jsonData.forEach(function (item) {
+            let obj = {
+                _index: 'test',
+                _type: 'pokazatel',
+>>>>>>> 8c0f9ab34ade5257f3e4baa0fca8150cdaa3c669
                 _id: item.id,
                 _source: item
             }

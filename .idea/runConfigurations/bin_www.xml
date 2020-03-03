@@ -1,7 +1,11 @@
 <component name="ProjectRunConfigurationManager">
   <configuration default="false" name="bin\www" type="NodeJSConfigurationType" path-to-js-file="bin/www" working-dir="$PROJECT_DIR$">
     <envs>
+<<<<<<< HEAD
       <env name="DEBUG" value="nodeelasticnew:*" />
+=======
+      <env name="DEBUG" value="elasticsearch:*" />
+>>>>>>> 8c0f9ab34ade5257f3e4baa0fca8150cdaa3c669
     </envs>
     <EXTENSION ID="com.jetbrains.nodejs.run.NodeJSStartBrowserRunConfigurationExtension">
       <browser url="http://localhost:3000/" />

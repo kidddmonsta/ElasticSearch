@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/NodeElasticNew.iml" filepath="$PROJECT_DIR$/.idea/NodeElasticNew.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/Elasticsearch.iml" filepath="$PROJECT_DIR$/.idea/Elasticsearch.iml" />
+>>>>>>> 8c0f9ab34ade5257f3e4baa0fca8150cdaa3c669
     </modules>
   </component>
 </project>

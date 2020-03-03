@@ -24,6 +24,10 @@ router.get('/', function(req, res, next) {
   res.render('index', { title: 'Express' });
 });
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 8c0f9ab34ade5257f3e4baa0fca8150cdaa3c669
 router.post('/search', function(req, res, next) {
   console.log(req.body.index_name);
   console.log(req.body.search_string);
@@ -31,5 +35,11 @@ router.post('/search', function(req, res, next) {
   res.render('search', { title: 'Search data' });
 
 });
+<<<<<<< HEAD
 
 module.exports = router;
+=======
+module.exports = router;
+
+
+>>>>>>> 8c0f9ab34ade5257f3e4baa0fca8150cdaa3c669

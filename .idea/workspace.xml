@@ -1,8 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="ChangeListManager">
     <list default="true" id="717f9c1f-a99a-4894-905b-18c37de48b19" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+=======
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="660f4128-4e47-4267-96b0-bc39ca331da3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/export.json" beforeDir="false" afterPath="$PROJECT_DIR$/export.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/formatted.json" beforeDir="false" afterPath="$PROJECT_DIR$/formatted.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/index.pug" beforeDir="false" afterPath="$PROJECT_DIR$/views/index.pug" afterDir="false" />
+>>>>>>> 8c0f9ab34ade5257f3e4baa0fca8150cdaa3c669
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,7 +27,11 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+<<<<<<< HEAD
   <component name="ProjectId" id="1YbyLTQwphb0gRrxyQJ3QpTBfxZ" />
+=======
+  <component name="ProjectId" id="1XhKmyBkO4l4T4gL6Z8WZnDOmh0" />
+>>>>>>> 8c0f9ab34ade5257f3e4baa0fca8150cdaa3c669
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -21,11 +40,26 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+<<<<<<< HEAD
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="10.16.0" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
+=======
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="10.16.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../expressapp" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\zaytsevns\WebstormProjects\Elasticsearch\postgresql" />
+    </key>
+  </component>
+>>>>>>> 8c0f9ab34ade5257f3e4baa0fca8150cdaa3c669
   <component name="ServiceViewManager">
     <option name="viewStates">
       <list>
@@ -43,12 +77,21 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
       <changelist id="717f9c1f-a99a-4894-905b-18c37de48b19" name="Default Changelist" comment="" />
       <created>1583225532153</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583225532153</updated>
       <workItem from="1583225541480" duration="8832000" />
+=======
+      <changelist id="660f4128-4e47-4267-96b0-bc39ca331da3" name="Default Changelist" comment="" />
+      <created>1581493048245</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581493048245</updated>
+      <workItem from="1581493062080" duration="64415000" />
+>>>>>>> 8c0f9ab34ade5257f3e4baa0fca8150cdaa3c669
     </task>
     <servers />
   </component>
@@ -56,9 +99,20 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+<<<<<<< HEAD
     <state x="623" y="225" key="search.everywhere.popup" timestamp="1583226435539">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="623" y="225" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1583226435539" />
+=======
+    <state x="740" y="276" key="FileChooserDialogImpl" timestamp="1582016689842">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="276" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1582016689842" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1581691965860">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1581691965860" />
+>>>>>>> 8c0f9ab34ade5257f3e4baa0fca8150cdaa3c669
   </component>
 </project>

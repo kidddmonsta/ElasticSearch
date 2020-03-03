@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "nodeelasticnew",
+=======
+  "name": "elasticsearch",
+>>>>>>> 8c0f9ab34ade5257f3e4baa0fca8150cdaa3c669
   "version": "0.0.0",
   "private": true,
   "scripts": {
@@ -8,9 +12,16 @@
   "dependencies": {
     "@elastic/elasticsearch": "^7.6.0",
     "cookie-parser": "~1.4.4",
+<<<<<<< HEAD
     "curl-request": "^1.1.1",
     "debug": "~2.6.9",
     "express": "~4.16.1",
+=======
+    "debug": "~2.6.9",
+    "elasticdump": "^6.21.0",
+    "express": "~4.16.1",
+    "faker": "^4.1.0",
+>>>>>>> 8c0f9ab34ade5257f3e4baa0fca8150cdaa3c669
     "http-errors": "~1.6.3",
     "morgan": "~1.9.1",
     "pug": "2.0.0-beta11"
