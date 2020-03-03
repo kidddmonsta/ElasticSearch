@@ -1,0 +1,19 @@
+extends layout
+
+block content
+  h1= title
+  p Welcome to #{title} elasticSearch
+  form(method='POST' action='/search')
+    div.form-group
+      label(for='index_name') Index:
+      input#index_name.form-control(type='text', placeholder='test2' value='test2' name='index_name')
+    div.form-group
+      label(for='search_field') Index:
+      input#search_field.form-control(type='text', value='indicator_name_rus' name='search_field')
+    div.form-group
+      label(for='search_value') Index:
+      input#search_value.form-control(type='text', value='Количественная' name='search_value')
+    div.form-group
+      label(for='search_string') Search string:
+      textarea#search_string.form-control(type='textarea', rows="5", name='search_string') match: { indicator_name_rus: 'Количественная' }
+    button.btn.btn-primary(type='submit') Search !
